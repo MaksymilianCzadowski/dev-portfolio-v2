@@ -22,6 +22,8 @@ import {
   jobit,
   tripguide,
   threejs,
+  java,
+  vue,
 } from "../assets";
 
 export const navLinks = [
@@ -80,8 +82,8 @@ const technologies = [
     icon: reactjs,
   },
   {
-    name: "Redux Toolkit",
-    icon: redux,
+    name: "Vue JS",
+    icon: vue,
   },
   {
     name: "Tailwind CSS",
@@ -104,8 +106,8 @@ const technologies = [
     icon: git,
   },
   {
-    name: "figma",
-    icon: figma,
+    name: "Java",
+    icon: java,
   },
   {
     name: "docker",

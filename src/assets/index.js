@@ -20,6 +20,8 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import java from "./tech/java.png";
+import vue from "./tech/vue.png";
 
 import cleed from "./company/cleed.jpg";
 import arondor from "./company/arondor.jpg";
@@ -51,6 +53,8 @@ export {
   tailwind,
   typescript,
   threejs,
+  java,
+  vue,
   incrafty,
   carrent,
   jobit,
